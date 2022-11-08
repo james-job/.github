@@ -3,5 +3,7 @@
 **Tired of searching jobs?**  
 We search for you
 - create your SkillSet®
-- get matches
-It's that easy 🎉
+- get matches  
+
+It's that easy 🎉  
+Create your SkillSet® [here](https://jamesjob.com)
